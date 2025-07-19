@@ -1,18 +1,19 @@
-title: Multiverse by HTML5 UP
-author: João Neto
-email: joao@neto.pt
-description: >-
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+# Build settings
+markdown: kramdown
 
-social:
-  twitter: joaomlneto
-  facebook: joaomlneto
-  instagram: joaomlneto
-  github: joaomlneto
-  linkedin:
+title: "Zhaoyu Xing's Photography"
+description: "A collection of moments captured through my lens."
+author: "Zhaoyu Xing"
+email: "zxing@nd.edu"
+social: 
 
+# 【关键配置】
+baseurl: "/photography"
+url: "https://ZhaoyuXingStat.github.io"
+
+# Social settings
+social-links:
+  github: ZhaoyuXingStat
 # Build settings
 markdown: kramdown
 plugins:
