@@ -1,4 +1,4 @@
 ---
-title: Canberra Brids
-caption: Canberra Brids outside the Boat House
+title: Canberra
+caption: 2023, Canberra Brids outside the Boat House
 ---
