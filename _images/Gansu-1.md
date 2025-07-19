@@ -1,4 +1,4 @@
 ---
 title: Gansu
-caption: Gansu-Qicai Danxia
+caption: 2024 Gansu-Qicai Danxia
 ---
